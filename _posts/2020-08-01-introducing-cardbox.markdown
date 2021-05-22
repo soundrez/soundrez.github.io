@@ -22,5 +22,8 @@ With so many different programs, it can be hard finding the right discount when 
 
 [Terms & Conditions][terms-conditions]
 
+[Support][support]
+
 [privacy-policy]: ../../../cardbox-privacy-policy.html
 [terms-conditions]: ../../../cardbox-terms-conditions.html
+[support]: ../../../cardbox-support.html
