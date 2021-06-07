@@ -20,8 +20,7 @@
 
 title: Daniel Stafford
 email: dstafford42@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Developer of portable applications.
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: dstafford42
